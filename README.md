@@ -115,6 +115,4 @@ Feel free to fork this repository and contribute by submitting pull requests.
 
 For any questions or suggestions, please open an issue or contact [overmars86](https://github.com/overmars86).
 
----
 
-Feel free to adjust the content as needed.
